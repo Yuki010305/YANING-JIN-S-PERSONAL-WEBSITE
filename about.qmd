@@ -1,0 +1,14 @@
+---
+title: "About"
+---
+
+About this site
+
+Hi! I am YANING JIN, you can also call me Yuki! I am a junior student at the University of Toronto, majoring in Mathematics and Statistics.
+
+```{r}
+1 + 1
+```
+
+
+[My CV](cv.pdf)

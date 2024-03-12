@@ -1,0 +1,17 @@
+{
+  "hash": "d018730d0994b5165720504778d2d6ea",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\nHi! I am YANING JIN, you can also call me Yuki! I am a junior student at the University of Toronto, majoring in Mathematics and Statistics.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n[My CV](cv.pdf)",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
