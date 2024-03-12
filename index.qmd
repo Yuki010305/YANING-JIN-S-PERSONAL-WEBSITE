@@ -2,10 +2,4 @@
 title: "YANING JIN"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi! I am YANING JIN, you can also call me Yuki! I am a junior student at the University of Toronto, majoring in Mathematics and Statistics.
